@@ -5,6 +5,9 @@ Website de uma imobiliária fictícia feito a fim de estudos, nele trabalhei min
 # Preview
 
 <div align="center">
-  <img src="" />
+  <img src="preview.png" />
+</div>
+<div align="center">
+  <img src="preview2.png" />
 </div>
 <br>
