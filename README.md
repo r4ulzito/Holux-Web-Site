@@ -37,5 +37,5 @@ Website de uma imobiliária fictícia feito a fim de estudos, nele trabalhei min
 # Link do Deploy
 
 <ul>
-  <li></li>
+  <li><a href="https://holux-fic-website.netlify.app/">https://holux-fic-website.netlify.app</a></li>
 </ul>
