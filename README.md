@@ -29,7 +29,7 @@ Website de uma imobiliária fictícia feito a fim de estudos, nele trabalhei min
 
 <ul>
   <li>Responsividade</li>
-  <li>Modo Dark/Ligth</li>
+  <li>Modo Dark/Light</li>
   <li>Efeitos de Transição</li>
   <li>Efeitos de Carrosel de Imagens</li>
 </ul>
