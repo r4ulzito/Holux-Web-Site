@@ -7,6 +7,7 @@ Website de uma imobiliária fictícia feito a fim de estudos, nele trabalhei min
 <div align="center">
   <img src="preview.png" />
 </div>
+<br>
 <div align="center">
   <img src="preview2.png" />
 </div>
