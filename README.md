@@ -13,7 +13,7 @@ Website de uma imobiliária fictícia feito a fim de estudos, nele trabalhei min
 </div>
 <br>
 
-# Tecnologias e Bibliotecas usadas...
+# Tecnologias e Bibliotecas
 
 <ul>
   <li>HTML5</li>
@@ -25,7 +25,7 @@ Website de uma imobiliária fictícia feito a fim de estudos, nele trabalhei min
   <li>Google Fonts</li>
 </ul>
 
-# Essa aplicação contém...
+# Funcionalidade
 
 <ul>
   <li>Responsividade</li>
