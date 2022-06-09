@@ -25,7 +25,7 @@ Website de uma imobiliária fictícia feito a fim de estudos, nele trabalhei min
   <li>Google Fonts</li>
 </ul>
 
-# Funcionalidade
+# Funcionalidades
 
 <ul>
   <li>Responsividade</li>
